@@ -1,0 +1,9 @@
+beautifulsoup4>=4.4.1
+lxml
+requests>=2.9.1
+six>=1.10.0
+Pillow
+opencv-python
+icrawler
+tqdm
+numpy
